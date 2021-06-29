@@ -1,0 +1,14 @@
+{
+  "name": "vuescrollnext",
+  "version": "1.0.1",
+  "description": "vue3 plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhipeng.tu",
+  "license": "ISC",
+  "dependencies": {
+    "perfect-scrollbar": "^1.5.1"
+  }
+}
